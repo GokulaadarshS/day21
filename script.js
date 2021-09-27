@@ -22,7 +22,7 @@
                                         setTimeout(() => {
                                             document.getElementById("one").innerHTML = count[9];
                                             setTimeout(() => {
-                                                document.getElementById("one").innerHTML = "I love u di muniyamma. U r my evreything.";
+                                                document.getElementById("one").innerHTML = "HAPPY INDEPENDENCE DAY";
                                             }, 1000);
                                         }, 1000);
                                     }, 1000);
