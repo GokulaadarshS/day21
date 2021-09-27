@@ -1,0 +1,9 @@
+body{
+    background-color: coral;
+}
+#one{
+  margin: 30px;  
+  padding: 30px;
+  text-align: center;
+  font-size: xx-large;
+}
